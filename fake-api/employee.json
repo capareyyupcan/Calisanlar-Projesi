@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "name": "Ahmet Katat",
+      "department": "Jumper",
+      "salary": 75000,
+      "id": 2
+    },
+    {
+      "name": "Ahmet Can",
+      "department": "Bilgisat",
+      "salary": 2500,
+      "id": 4
+    },
+    {
+      "name": "Ahmet Can",
+      "department": "Bilgisat",
+      "salary": 2500,
+      "id": 5
+    },
+    {
+      "name": "ahmet",
+      "department": "asdasdasd",
+      "salary": "asdasdasd",
+      "id": 6
+    },
+    {
+      "name": "qwedq",
+      "department": "qweqwe",
+      "salary": "qweqw",
+      "id": 7
+    },
+    {
+      "name": "Bitcoin Haberleri",
+      "department": "asdasdasdasd",
+      "salary": "5000",
+      "id": 9
+    }
+  ]
+}
