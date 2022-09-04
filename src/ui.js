@@ -92,7 +92,7 @@ this.employeesList.innerHTML =result;
   </tr>
   `;
 
-  
+  this.clearInputs();
   }
 
 }

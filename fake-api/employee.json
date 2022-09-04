@@ -3,7 +3,7 @@
     {
       "name": "Ahmet Katat",
       "department": "Jumper",
-      "salary": 75000,
+      "salary": 1200,
       "id": 2
     },
     {
@@ -11,24 +11,6 @@
       "department": "Bilgisat",
       "salary": 2500,
       "id": 4
-    },
-    {
-      "name": "Ahmet Can",
-      "department": "Bilgisat",
-      "salary": 2500,
-      "id": 5
-    },
-    {
-      "name": "ahmet",
-      "department": "asdasdasd",
-      "salary": "asdasdasd",
-      "id": 6
-    },
-    {
-      "name": "qwedq",
-      "department": "qweqwe",
-      "salary": "qweqw",
-      "id": 7
     },
     {
       "name": "Bitcoin Haberleri",

@@ -122,6 +122,7 @@ if(updateState){
     request.put(updateState.updateId,data)
     .then(updatedEmployee =>{
         ui.updateEployeeOnUI(updatedEmployee,updateState.updateParent);
+       
     })
     .catch(err => console.log(err));
 
